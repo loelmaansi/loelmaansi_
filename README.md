@@ -1,5 +1,3 @@
-# loelmaansi_
-
 # 💫 About Me:
 ⚡ Passionate about Cybersecurity, AI, Machine Learning, and NLP, focusing on building intelligent and resilient security solutions.<br>💻 Currently pursuing my Master’s in Cybersecurity at California State University, Dominguez Hills.<br>💡 Experienced in AI-driven security, MLOps, and threat detection with hands-on expertise in TensorFlow, PyTorch, and Scikit-Learn.<br>🌱 Continuously learning and exploring advancements in AI, ML, Deep Learning, and Cybersecurity.<br>👨‍💻 Former IBM Test Specialist with expertise in automation, digital forensics, and penetration testing.<br>
 
